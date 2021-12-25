@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Sample Java Page code updated</h1>
-<h1>Automated build using build triggers Poll SCM</h1>
+<h1>Automated build using build triggers Poll SCM...</h1>
 <form action="user_register" method="post">
 			<table style="with: 50%">
 				<tr>
