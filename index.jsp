@@ -7,7 +7,7 @@
 <title>DevOps</title>
 </head>
 <body>
-<h1>Sample Java Page</h1>
+<h1>Sample Java Page code updated</h1>
 <form action="user_register" method="post">
 			<table style="with: 50%">
 				<tr>
